@@ -25,12 +25,10 @@
 **Languages**
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,linux,vscode" />
+</p>
 ---
 
 ### 🛠 Tools & Platforms
