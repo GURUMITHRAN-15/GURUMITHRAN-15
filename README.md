@@ -1,16 +1,99 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Gurumithran</h1>
+<h3 align="center">🚀 AI/ML Explorer | Student Developer | Automation Builder</h3>
 
-<!--
-**GURUMITHRAN-15/GURUMITHRAN-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Student exploring **AI & Machine Learning**
+- 🤖 Building automation tools using **n8n & Flowise**
+- 🌱 Currently learning **AI agents, chatbots and automation workflows**
+- ⚡ Fun fact: I enjoy experimenting with new AI tools and building small projects.
+
+---
+
+### 🚀 Current Focus
+
+- 🔬 Exploring **AI / ML**
+- ⚙️ Building **automation workflows**
+- 🧠 Learning **AI agent systems**
+
+---
+
+### 💻 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Database](https://img.shields.io/badge/Database-grey?style=for-the-badge)
+
+---
+
+### 🛠 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![n8n](https://img.shields.io/badge/n8n-red?style=for-the-badge)
+![Flowise](https://img.shields.io/badge/Flowise-purple?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-darkgreen?style=for-the-badge)
+
+---
+
+### 🚀 Projects
+
+🔹 **moviesda-mcp**  
+AI-powered tool project.
+
+🔹 **News Automation (n8n)**  
+Automated news workflow using **n8n automation pipelines**.
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GURUMITHRAN-15&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔥 GitHub Streak
+
+![GitHub streak](https://streak-stats.demolab.com/?user=GURUMITHRAN-15&theme=tokyonight)
+
+---
+
+### 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GURUMITHRAN-15&theme=tokyo-night)
+
+---
+
+### 🌐 Connect With Me
+
+🔗 GitHub  
+https://github.com/GURUMITHRAN-15
+
+🔗 LinkedIn  
+www.linkedin.com/in/gurumithran-v-b30b99357
+
+(More links coming soon...)
+
+---
+
+### ☕ Support My Work
+
+If you like my projects, consider ⭐ starring them on GitHub!
+
+---
+
+### 👀 Visitor Count
+
+![Visitor Count](https://komarev.com/ghpvc/?username=GURUMITHRAN-15)
+
+---
+
+<p align="center">
+Thanks for visiting my profile! 🚀
+</p>
