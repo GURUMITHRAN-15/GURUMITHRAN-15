@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./enzo-celebration.gif" width="400">
+  <img src="./enzo-celebration.mp4" width="400">
 </div>
 
 
