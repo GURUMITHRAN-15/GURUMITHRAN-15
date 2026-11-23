@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="./enzo-celebration.gif" width="400">
+</div>
+
+
+
 <h1 align="center">Hi 👋, I'm Gurumithran</h1>
 <h3 align="center">🚀 AI/ML Explorer | Student Developer | Automation Builder</h3>
 
