@@ -1,104 +1,104 @@
+
 <div align="center">
-  <img src="./final.gif" width="400">
+
+<img src="./final.gif" width="400" alt="My personality GIF" />
+
+<br/>
+
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=GURUMITHRAN-15&theme=hacker&headerStyle=mac&typingSpeed=80&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Cconnect%2Cexit&customCommands=%7B%22connect%22%3A%22https%3A%2F%2Fwww.instagram.com%2Fmithrannnn._%22%7D)](https://github.com/GURUMITHRAN-15)
+
 </div>
 
+---
 
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Gurumithran</h1>
-<h3 align="center">🚀 AI/ML Explorer | Student Developer | Automation Builder</h3>
+# `> WHOAMI`
+
+### GURUMITHRAN-15
+
+**A Jack of All Trades. A Master of Building.**
+
+*Exploring technology, experimenting with ideas, and building things that shouldn't exist (yet).*
+
+</div>
+
+```bash
+┌──[ GURUMITHRAN@github ]
+│
+├── ROLE       : Developer / Explorer
+├── MINDSET    : Learn → Build → Break → Improve
+├── INTERESTS  : AI / ML • Automation • Software
+├── PHILOSOPHY : Build first. Perfect later.
+└── STATUS     : Always experimenting...
+```
+
+## `> TECH_STACK`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,linux&theme=dark" />
+
+<br/><br/>
+
+**Exploring & Experimenting**
+
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-Exploring-adff2f?style=for-the-badge&labelColor=0b0b0b" />
+<img src="https://img.shields.io/badge/n8n-Automation-adff2f?style=for-the-badge&labelColor=0b0b0b" />
+
+</div>
+
+## `> PROJECTS`
+
+<!-- Add your selected projects here -->
+
+```bash
+[!] PROJECT_DATABASE: AWAITING_SELECTION
+```
+
+## `> GITHUB_STATS`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GURUMITHRAN-15&show_icons=true&hide_border=true&bg_color=0b0b0b&title_color=adff2f&icon_color=adff2f&text_color=ffffff&include_all_commits=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GURUMITHRAN-15&layout=compact&hide_border=true&bg_color=0b0b0b&title_color=adff2f&text_color=ffffff" />
+
+</div>
+
+## `> CONTRIBUTION_ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GURUMITHRAN-15&bg_color=0b0b0b&color=adff2f&line=adff2f&point=ffffff&area=true&hide_border=true" width="100%" />
+
+</div>
+
+## `> CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/GURUMITHRAN-15">
+<img src="https://img.shields.io/badge/GitHub-GURUMITHRAN--15-adff2f?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0b0b" />
+</a>
+
+<a href="https://www.instagram.com/mithrannnn._">
+<img src="https://img.shields.io/badge/Instagram-Connect-adff2f?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b0b0b" />
+</a>
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+<div align="center">
 
-- 🎓 Student exploring **AI & Machine Learning**
-- 🤖 Building automation tools using **n8n & Flowise**
-- 🌱 Currently learning **AI agents, chatbots and automation workflows**
-- ⚡ Fun fact: I enjoy experimenting with new AI tools and building small projects.
+### `SYSTEM MESSAGE`
 
----
+**Curiosity is my fuel. Code is my weapon.**
 
-### 🚀 Current Focus
+*Stay curious. Keep building. Never stop experimenting.*
 
-- 🔬 Exploring **AI / ML**
-- ⚙️ Building **automation workflows**
-- 🧠 Learning **AI agent systems**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0b0b0b&height=100&section=footer" width="100%" />
 
----
-
-### 💻 Tech Stack
-
-**Languages**
-
-
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,linux,vscode" />
-</p>
----
-
-### 🛠 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![n8n](https://img.shields.io/badge/n8n-red?style=for-the-badge)
-![Flowise](https://img.shields.io/badge/Flowise-purple?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-darkgreen?style=for-the-badge)
-
----
-
-### 🚀 Projects
-
-🔹 **moviesda-mcp**  
-AI-powered tool project.
-
-🔹 **News Automation (n8n)**  
-Automated news workflow using **n8n automation pipelines**.
-
----
-
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GURUMITHRAN-15&show_icons=true&theme=tokyonight)
-
----
-
-### 🔥 GitHub Streak
-
-![GitHub streak](https://streak-stats.demolab.com/?user=GURUMITHRAN-15&theme=tokyonight)
-
----
-
-### 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GURUMITHRAN-15&theme=tokyo-night)
-
----
-
-### 🌐 Connect With Me
-
-🔗 GitHub  
-https://github.com/GURUMITHRAN-15
-
-🔗 LinkedIn  
-www.linkedin.com/in/gurumithran-v-b30b99357
-
-(More links coming soon...)
-
----
-
-### ☕ Support My Work
-
-If you like my projects, consider ⭐ starring them on GitHub!
-
----
-
-### 👀 Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=GURUMITHRAN-15)
-
----
-
-<p align="center">
-Thanks for visiting my profile! 🚀
-</p>
-
+</div>
+```
