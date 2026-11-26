@@ -73,24 +73,20 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GURUMITHRAN-15&bg_color=0b0b0b&color=adff2f&line=adff2f&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
-
-## `> CONNECT`
-
 <div align="center">
 
 <a href="https://github.com/GURUMITHRAN-15">
-<img src="https://img.shields.io/badge/GitHub-GURUMITHRAN--15-adff2f?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0b0b" />
+<img src="https://img.shields.io/badge/GITHUB-GURUMITHRAN--15-ADFF2F?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0b0b" />
 </a>
-
-<a href="https://www.instagram.com/mithrannnn._">
-<img src="https://img.shields.io/badge/Instagram-Connect-adff2f?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b0b0b" />
+<a href="https://www.instagram.com/mithrannnn._/">
+<img src="https://img.shields.io/badge/INSTAGRAM-CONNECT-ADFF2F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b0b0b" />
 </a>
+<a href="https://www.linkedin.com/in/gurumithran-v-b30b99357/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-ADFF2F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0b0b" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=GURUMITHRAN-15&label=VISITORS&color=ADFF2F&style=for-the-badge" />
 
 </div>
-
----
-
-<div align="center">
 
 ### `SYSTEM MESSAGE`
 
@@ -98,7 +94,8 @@
 
 *Stay curious. Keep building. Never stop experimenting.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0b0b0b&height=100&section=footer" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ADFF2F,100:0b0b0b&height=150&section=footer" width="100%" />
 
 </div>
-```
+
